@@ -1,0 +1,112 @@
+---
+object: card
+id: a2e23215-ced7-4c44-8595-dd9df3d8227b
+oracle_id: 9aab4b32-c5b3-4707-b359-9b5e3b63cd11
+multiverse_ids:
+- 409931
+mtgo_id: 59784
+mtgo_foil_id: 59785
+tcgplayer_id: 116446
+cardmarket_id: 289189
+name: Reduce to Ashes
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/a2e23215-ced7-4c44-8595-dd9df3d8227b
+scryfall_uri: https://scryfall.com/card/soi/176/reduce-to-ashes?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/2/a2e23215-ced7-4c44-8595-dd9df3d8227b.jpg?1576384872
+  normal: https://cards.scryfall.io/normal/front/a/2/a2e23215-ced7-4c44-8595-dd9df3d8227b.jpg?1576384872
+  large: https://cards.scryfall.io/large/front/a/2/a2e23215-ced7-4c44-8595-dd9df3d8227b.jpg?1576384872
+  png: https://cards.scryfall.io/png/front/a/2/a2e23215-ced7-4c44-8595-dd9df3d8227b.png?1576384872
+  art_crop: https://cards.scryfall.io/art_crop/front/a/2/a2e23215-ced7-4c44-8595-dd9df3d8227b.jpg?1576384872
+  border_crop: https://cards.scryfall.io/border_crop/front/a/2/a2e23215-ced7-4c44-8595-dd9df3d8227b.jpg?1576384872
+mana_cost: "{4}{R}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Reduce to Ashes deals 5 damage to target creature. If that creature would
+  die this turn, exile it instead.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5e914d7e-c1e9-446c-a33d-d093c02b2743
+set: soi
+set_name: Shadows over Innistrad
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5e914d7e-c1e9-446c-a33d-d093c02b2743
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/soi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a2e23215-ced7-4c44-8595-dd9df3d8227b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9aab4b32-c5b3-4707-b359-9b5e3b63cd11&unique=prints
+collector_number: '176'
+digital: false
+rarity: common
+flavor_text: Previously the training center for cathars, the Elgaud Grounds are now
+  used by the Lunarch Inquisition to punish those considered to be heretics.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason A. Engle
+artist_ids:
+- 02e2b5de-4341-464c-8fdb-a1adbf873bc0
+illustration_id: 5e7dc993-b7dc-41df-80bb-5636d47f91e0
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19690
+prices:
+  usd: '0.02'
+  usd_foil: '0.07'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.13'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409931
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reduce+to+Ashes&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reduce+to+Ashes&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Reduce+to+Ashes
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116446?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reduce+to+Ashes&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/59784?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

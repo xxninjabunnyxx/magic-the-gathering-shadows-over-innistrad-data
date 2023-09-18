@@ -1,0 +1,118 @@
+---
+object: card
+id: 22fbc045-2c86-4816-8622-db56929ae94d
+oracle_id: 6cc99047-91dc-4ef2-99f3-65932b82ca31
+multiverse_ids:
+- 409994
+mtgo_id: 60136
+mtgo_foil_id: 60137
+tcgplayer_id: 114874
+cardmarket_id: 288662
+name: Soul Swallower
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/22fbc045-2c86-4816-8622-db56929ae94d
+scryfall_uri: https://scryfall.com/card/soi/230/soul-swallower?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/2/22fbc045-2c86-4816-8622-db56929ae94d.jpg?1576385248
+  normal: https://cards.scryfall.io/normal/front/2/2/22fbc045-2c86-4816-8622-db56929ae94d.jpg?1576385248
+  large: https://cards.scryfall.io/large/front/2/2/22fbc045-2c86-4816-8622-db56929ae94d.jpg?1576385248
+  png: https://cards.scryfall.io/png/front/2/2/22fbc045-2c86-4816-8622-db56929ae94d.png?1576385248
+  art_crop: https://cards.scryfall.io/art_crop/front/2/2/22fbc045-2c86-4816-8622-db56929ae94d.jpg?1576385248
+  border_crop: https://cards.scryfall.io/border_crop/front/2/2/22fbc045-2c86-4816-8622-db56929ae94d.jpg?1576385248
+mana_cost: "{2}{G}{G}"
+cmc: 4.0
+type_line: Creature — Wurm
+oracle_text: |-
+  Trample
+  Delirium — At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, put three +1/+1 counters on Soul Swallower.
+power: '3'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Delirium
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5e914d7e-c1e9-446c-a33d-d093c02b2743
+set: soi
+set_name: Shadows over Innistrad
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5e914d7e-c1e9-446c-a33d-d093c02b2743
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/soi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/22fbc045-2c86-4816-8622-db56929ae94d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6cc99047-91dc-4ef2-99f3-65932b82ca31&unique=prints
+collector_number: '230'
+digital: false
+rarity: rare
+flavor_text: Being engulfed is just the beginning of the nightmare.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Marco Nelor
+artist_ids:
+- c0f95ec3-c7ca-47d6-be5c-b37dfce37be5
+illustration_id: bcfc952a-b515-4abc-b6a6-349a881c618a
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11267
+penny_rank: 8518
+prices:
+  usd: '0.18'
+  usd_foil: '0.49'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.34'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409994
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Soul+Swallower&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Soul+Swallower&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Soul+Swallower
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/114874?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soul+Swallower&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/60136?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

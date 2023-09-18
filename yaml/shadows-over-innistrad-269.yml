@@ -1,0 +1,113 @@
+---
+object: card
+id: 1285b444-1668-4a3d-9fcd-8ce4e95c6d2f
+oracle_id: f6a07af3-e54b-4dcb-ae2a-3dfdac386bab
+multiverse_ids:
+- 410037
+mtgo_id: 59834
+mtgo_foil_id: 59835
+tcgplayer_id: 116485
+cardmarket_id: 289222
+name: Wild-Field Scarecrow
+lang: en
+released_at: '2016-04-08'
+uri: https://api.scryfall.com/cards/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f
+scryfall_uri: https://scryfall.com/card/soi/269/wild-field-scarecrow?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/2/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f.jpg?1576385512
+  normal: https://cards.scryfall.io/normal/front/1/2/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f.jpg?1576385512
+  large: https://cards.scryfall.io/large/front/1/2/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f.jpg?1576385512
+  png: https://cards.scryfall.io/png/front/1/2/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f.png?1576385512
+  art_crop: https://cards.scryfall.io/art_crop/front/1/2/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f.jpg?1576385512
+  border_crop: https://cards.scryfall.io/border_crop/front/1/2/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f.jpg?1576385512
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact Creature — Scarecrow
+oracle_text: |-
+  Defender
+  {2}, Sacrifice Wild-Field Scarecrow: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
+power: '1'
+toughness: '4'
+colors: []
+color_identity: []
+keywords:
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5e914d7e-c1e9-446c-a33d-d093c02b2743
+set: soi
+set_name: Shadows over Innistrad
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5e914d7e-c1e9-446c-a33d-d093c02b2743
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asoi&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/soi?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1285b444-1668-4a3d-9fcd-8ce4e95c6d2f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af6a07af3-e54b-4dcb-ae2a-3dfdac386bab&unique=prints
+collector_number: '269'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jakub Kasper
+artist_ids:
+- 36901417-ce61-4636-8b77-6db14a9cb68a
+illustration_id: 0c533d81-f482-4102-a3b3-e963b2d28866
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 8389
+penny_rank: 6334
+prices:
+  usd: '0.17'
+  usd_foil: '1.88'
+  usd_etched: 
+  eur: '0.34'
+  eur_foil: '0.99'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410037
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wild-Field+Scarecrow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wild-Field+Scarecrow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wild-Field+Scarecrow
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/116485?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wild-Field+Scarecrow&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/59834?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,21 @@
+---
+object: set
+id: 5e914d7e-c1e9-446c-a33d-d093c02b2743
+code: soi
+mtgo_code: soi
+arena_code: soi
+tcgplayer_id: 1708
+name: Shadows over Innistrad
+uri: https://api.scryfall.com/sets/5e914d7e-c1e9-446c-a33d-d093c02b2743
+scryfall_uri: https://scryfall.com/sets/soi
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asoi&unique=prints
+released_at: '2016-04-08'
+set_type: expansion
+card_count: 302
+printed_size: 297
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: soi
+block: Shadows over Innistrad
+icon_svg_uri: https://svgs.scryfall.io/sets/soi.svg?1694404800
